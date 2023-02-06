@@ -9,7 +9,7 @@
 ## 🦉 About
 
 #### 🛠 Tech Stack
-###### 최소 한 번 이상은 다루어 보았거나 능숙하게 다룰 수 있습니다.
+##### 최소 한 번 이상은 다루어 보았거나 능숙하게 다룰 수 있습니다.
 <ul>
   <li>
     <img src="http://img.shields.io/badge/-Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=black"
@@ -38,10 +38,15 @@
      style="height: auto; margin-left: 10px; margin-right: 10px;"/>
   </li>
 </ul>
-🌱 I’m currently learning ...
 
-##### 타입스크립트를 공부중입니다.
-##### Next.JS를 공부예정입니다.
+#### 🌱 I’m currently learning ...
+
+##### 되도록이면 여러가지를 경험해보고, 배우고 싶습니다.
+<ul>
+  <li>타입스크립트를 공부하고 있습니다.
+  <li>Next.JS를 공부 예정입니다.
+  <li>여유가 된다면 Vue.JS도 공부하고 싶습니다.
+</ul>
 
 #### ✍️ Blog
 ##### 바닐라 자바스크립트로 개발한 ver.1 의 포트폴리오용 사이트가 있습니다. [https://rainyel97.github.io/portfolio](https://rainyel97.github.io/portfolio/)
