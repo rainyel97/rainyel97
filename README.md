@@ -4,6 +4,8 @@
 #### 세종대학교를 졸업했으며 서울에 거주 중입니다.
 👋 🧑🏻‍💻 🌳
 
+<br>
+
 ## 🦉 About
 
 #### 🛠 Tech Stack
@@ -43,7 +45,9 @@
 
 #### ✍️ Blog
 ##### 바닐라 자바스크립트로 개발한 ver.1 의 포트폴리오용 사이트가 있습니다. [https://rainyel97.github.io/portfolio](https://rainyel97.github.io/portfolio/)
-##### 글을 작성할 수 있고 댓글기능이 있는 블로그를 개발 예정입니다.
+##### 글을 작성할 수 있고 댓글기능이 있는 ver.2의 블로그를 개발 예정입니다.
+
+<br>
 
 ## 🔥 Team Projects
 
@@ -51,22 +55,7 @@
 https://github.com/rainyel97/demo-plant-doctor
 세종대학교 졸업 프로젝트
 
-
+<br><br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rainyel97&layout=compact)](https://github.com/rainyel97/github-readme-stats)
 
-<br>
-<!--
-**rainyel97/rainyel97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
